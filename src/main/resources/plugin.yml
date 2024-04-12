@@ -5,6 +5,7 @@ description: A simple battle royale plugin
 author: DrgnFireYellow
 website: https://github.com/drgnfireyellow
 api-version: '1.20'
+softdepend: ["Multiverse-Core"]
 
 commands:
   'battleroyale':
